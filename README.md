@@ -2,9 +2,12 @@
 
 A complete collection of **20 professional learning guides** covering Git and GitHub from fundamentals to advanced topics. Perfect for developers at any level—from beginners learning version control basics to experienced engineers mastering advanced workflows.
 
-[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/sendtoshailesh/my-git-learnings?style=social)](https://github.com/sendtoshailesh/my-git-learnings/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/sendtoshailesh/my-git-learnings?style=social)](https://github.com/sendtoshailesh/my-git-learnings/network)
 [![Last Updated](https://img.shields.io/badge/updated-January%202026-brightgreen.svg)]()
 [![Total Guides](https://img.shields.io/badge/guides-20-orange.svg)]()
+[![Code of Conduct](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
 ---
 
